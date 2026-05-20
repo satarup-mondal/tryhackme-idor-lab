@@ -35,3 +35,8 @@ TryHackMe
 <img width="1536" height="1024" alt="ChatGPT Image May 20, 2026, 06_10_30 PM" src="https://github.com/user-attachments/assets/cb18ed1e-8200-414e-92bb-73fa81dd65d5" />
 
 
+## Impact
+Attackers can access other users' profiles without authorization.
+
+## Mitigation
+Implement proper server-side authorization checks.
